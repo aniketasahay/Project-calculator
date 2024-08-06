@@ -1,4 +1,4 @@
-console.log('im working');
+console.log('im good');
 let currentDisplay = '';
 document.querySelector('#display').value = currentDisplay;
 
